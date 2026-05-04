@@ -67,7 +67,7 @@ Assignment3_Main_Solution.py
 
 ## 👨‍💻 Author
 
-Omar Rahman
+Omar Abdul-Rahman
 MPH Candidate
 
 ---
