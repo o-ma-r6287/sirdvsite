@@ -47,7 +47,7 @@ st.set_page_config(
 
 st.title("🦠 Epidemiological Decision Dashboard")
 st.caption("Interactive disease spread analytics for SIR / SIRD / SIRDV models")
-st.caption("Built by Omar Rahman | MPH Candidate")
+st.caption("Built by Omar Rulida Abdul-Rahman | MPH Candidate")
 
 
 # ---------------------------------------------------
